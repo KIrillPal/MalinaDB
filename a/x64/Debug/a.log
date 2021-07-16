@@ -1,0 +1,12 @@
+﻿  a.cpp
+E:\Documents\Visual Studio 2019\Projects\a\a\a.cpp(37): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+E:\Documents\Visual Studio 2019\Projects\a\a\a.cpp(219): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\Documents\Visual Studio 2019\Projects\a\a\a.cpp(221): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+E:\Documents\Visual Studio 2019\Projects\a\a\a.cpp(224): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+E:\Documents\Visual Studio 2019\Projects\a\a\a.cpp(538): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\Documents\Visual Studio 2019\Projects\a\a\a.cpp(675): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+E:\Documents\Visual Studio 2019\Projects\a\a\a.cpp(676): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+E:\Documents\Visual Studio 2019\Projects\a\a\a.cpp(688): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\Documents\Visual Studio 2019\Projects\a\a\a.cpp(779): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+E:\Documents\Visual Studio 2019\Projects\a\a\a.cpp(782): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  a.vcxproj -> E:\Documents\Visual Studio 2019\Projects\a\x64\Debug\a.exe
